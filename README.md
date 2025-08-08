@@ -47,7 +47,7 @@ project-root/
 ## 🛠️ การติดตั้งและรันโปรเจค
 ### 1️⃣ Clone Repository  
 ```bash
-git clone 
+git clone https://github.com/BONDdv/catLover.git
  
 ```
 ### 2️⃣ Install Dependencies for Back and Frontend
