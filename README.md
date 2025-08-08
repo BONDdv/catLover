@@ -15,7 +15,7 @@
 project-root/
 ├── backend/ # ฝั่งเซิร์ฟเวอร์ (Node.js + Express)
 │ ├── controller/ # Logic ของแต่ละ endpoint
-│ ├── data/ # Mock data เช่น users.js, comments.js
+│ ├── data/ # Mock data users.js, comments.js
 │ │ ├── comments.js
 │ │ └── users.js
 │ ├── middleware/ # Middleware ตรวจสอบ JWT
@@ -74,5 +74,12 @@ Frontend
 npm run dev
 ```
 จากนั้นเปิดเบราว์เซอร์ไปที่:
-Frontend: http://localhost:5173
-Backend API: http://localhost:8010
+Frontend:
+```bash
+ http://localhost:5173
+ ```
+
+Backend API:
+```bash
+ http://localhost:8010
+ ```
